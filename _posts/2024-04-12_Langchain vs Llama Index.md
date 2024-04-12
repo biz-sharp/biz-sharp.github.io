@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title:  "LLM 애플리케이션 개발을 위한 프레임워크 비교 - Langchain vs Llama Index"
 ---
 
